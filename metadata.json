@@ -1,0 +1,6 @@
+{
+  "name": "iMovies - Real-Time Cinema Booking & Analytics",
+  "description": "Next-gen responsive movie ticket booking system with real-time seat locks, interactive cinema layouts, live analytics, notifications, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
